@@ -1,0 +1,3 @@
+Flask>=2.3
+SQLAlchemy>=2.0
+tzdata    # Fundamental pra zoneinfo rodar em Windows/Unix
