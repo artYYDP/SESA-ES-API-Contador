@@ -7,7 +7,7 @@ from zoneinfo import ZoneInfo
 
 app = Flask(__name__)
 
-DATABASE_URL = "sqlite:///contador.db"
+DATABASE_URL = "sqlite:////tmp/contador.db"
 engine = create_engine(DATABASE_URL, connect_args={"check_same_thread": False})
 
 Base = declarative_base()
