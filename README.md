@@ -50,7 +50,7 @@ Outros endpoints podem ser adicionados conforme a evolução do projeto.
 
 1. Clone o repositório:
 
-	````bash
+	```bash
 	 git clone https://github.com/artYYDP/SESA-ES-API-Contador.git
 	 cd SESA-ES-API-Contador
 	 ```
